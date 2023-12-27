@@ -19,7 +19,7 @@ The original Brother SDK lacked documentation and was written in JScript, making
 Before using the Brother QL Series Printer SDK for Web Browsers, ensure you have the following prerequisites installed and configured (Windows Only):
 
 1. **b-Pac Client:**
-   - Install the b-Pac Client on your system. You can download it from [Brother Solutions Center](https://support.brother.com/g/b/downloadtop.aspx?c=us&lang=en&prod=lpql810weus).
+   - Install the b-Pac Client on your system. You can download it from [Brother Solutions Center](https://support.brother.com/g/s/es/dev/en/bpac/download/index.html?c=eu_ot&lang=en&navi=offall&comple=on&redirect=on#client).
    - Follow the installation instructions provided by Brother to set up the b-Pac Client.
 
 2. **Brother b-Pac Extension:**
