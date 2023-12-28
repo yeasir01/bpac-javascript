@@ -1,0 +1,27 @@
+{
+  "name": "bpac-javascript",
+  "version": "1.0.0",
+  "description": "Welcome to the Brother QL Series Printer SDK for Web Browsers! This project aims to provide a modern and well-documented JavaScript SDK for seamless communication between web browsers and Brother QL series label printers.",
+  "main": "lib/index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeasir01/bpac-javascript.git"
+  },
+  "keywords": [
+    "brother",
+    "bPac"
+  ],
+  "author": "Yeasir Hugais",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yeasir01/bpac-javascript/issues"
+  },
+  "homepage": "https://github.com/yeasir01/bpac-javascript#readme"
+}
