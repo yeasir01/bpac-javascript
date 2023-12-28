@@ -86,7 +86,7 @@ const getPrinterList = async () => {
 getPrinterList();
 ```
 
-For more examples and detailed documentation, refer to the Documentation section.
+For more examples and detailed documentation, refer to the example directory.
 
 ## Acknowledgments
 
